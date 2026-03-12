@@ -1,0 +1,43 @@
+{
+  "name": "deepseek-v4-skill",
+  "version": "1.0.0",
+  "description": "AI agent skill for DeepSeek V4 (currently V3.2) — coding, reasoning, analysis via Atlas Cloud API. Works with Claude Code, Cursor, Codex, Copilot, and more.",
+  "main": "src/cli.ts",
+  "bin": {
+    "deepseek-v4": "src/cli.ts"
+  },
+  "scripts": {
+    "dev": "npx ts-node src/cli.ts",
+    "build": "tsc",
+    "start": "node dist/cli.js"
+  },
+  "keywords": [
+    "agent-skill",
+    "deepseek",
+    "deepseek-v4",
+    "deepseek-v3",
+    "llm",
+    "coding",
+    "code-generation",
+    "atlas-cloud",
+    "claude-code",
+    "cursor",
+    "codex",
+    "copilot",
+    "gemini-cli",
+    "windsurf",
+    "kiro",
+    "opencode",
+    "ai-agent"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thoughtincode/deepseek-v4-skill"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
