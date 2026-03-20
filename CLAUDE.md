@@ -54,4 +54,4 @@ npx deepseek-v4 --prompt "你的提示" --system "系统提示" --max-tokens 409
 - V4发布后自动升级，无需更改配置
 
 ## 注册获取API密钥
-https://www.atlascloud.ai?ref=JPM683 — 首充25%奖励
+https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=deepseek-v4-skill — 首充25%奖励

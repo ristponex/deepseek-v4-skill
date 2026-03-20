@@ -1,7 +1,7 @@
 # 🧠 DeepSeek V4 AI Agent Skill
 
 [![AI Agent Skill](https://img.shields.io/badge/AI%20Agent-Skill-blue?style=for-the-badge)](https://github.com/thoughtincode/deepseek-v4-skill)
-[![DeepSeek V3.2 → V4](https://img.shields.io/badge/DeepSeek-V3.2%20→%20V4-green?style=for-the-badge)](https://www.atlascloud.ai?ref=JPM683)
+[![DeepSeek V3.2 → V4](https://img.shields.io/badge/DeepSeek-V3.2%20→%20V4-green?style=for-the-badge)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=deepseek-v4-skill)
 [![15+ Platforms](https://img.shields.io/badge/Platforms-15%2B-orange?style=for-the-badge)](#supported-platforms)
 [![OpenAI Compatible](https://img.shields.io/badge/API-OpenAI%20Compatible-purple?style=for-the-badge)](#api-reference)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
@@ -48,7 +48,7 @@ cd deepseek-v4-skill
 export ATLAS_API_KEY="your-api-key-here"
 ```
 
-> Get your API key at [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683) — **25% bonus on first top-up**
+> Get your API key at [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=deepseek-v4-skill) — **25% bonus on first top-up**
 
 ---
 
@@ -486,7 +486,7 @@ console.log(code);
 | CI/CD code review | ~1M | ~$0.32 | ~$10 |
 | Enterprise (50 devs) | ~10M | ~$3.20 | ~$100 |
 
-> 💡 **Get 25% bonus** on your first top-up at [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683)
+> 💡 **Get 25% bonus** on your first top-up at [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=deepseek-v4-skill)
 
 ---
 
@@ -590,7 +590,7 @@ echo $ATLAS_API_KEY
 export ATLAS_API_KEY="your-key-here"
 ```
 
-Get your key at [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683).
+Get your key at [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=deepseek-v4-skill).
 
 </details>
 
@@ -665,7 +665,7 @@ npm run dev
 
 ## Links
 
-- **Atlas Cloud**: [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683) — Get your API key (25% first top-up bonus)
+- **Atlas Cloud**: [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=deepseek-v4-skill) — Get your API key (25% first top-up bonus)
 - **DeepSeek**: [deepseek.com](https://deepseek.com) — Model documentation
 - **GitHub**: [thoughtincode/deepseek-v4-skill](https://github.com/thoughtincode/deepseek-v4-skill)
 - **Issues**: [Report a bug](https://github.com/thoughtincode/deepseek-v4-skill/issues)
@@ -682,7 +682,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ```bash
 # 1. 获取API密钥
-# 访问 https://www.atlascloud.ai?ref=JPM683（首充25%奖励）
+# 访问 https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=deepseek-v4-skill（首充25%奖励）
 
 # 2. 设置密钥
 export ATLAS_API_KEY="your-key"
@@ -696,13 +696,13 @@ npx deepseek-v4 --prompt "Write a binary search tree in Rust"
 
 **DeepSeek V3.2 today. V4 tomorrow. Zero changes needed.**
 
-[![Get API Key](https://img.shields.io/badge/Get%20API%20Key-Atlas%20Cloud-blue?style=for-the-badge)](https://www.atlascloud.ai?ref=JPM683)
+[![Get API Key](https://img.shields.io/badge/Get%20API%20Key-Atlas%20Cloud-blue?style=for-the-badge)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=deepseek-v4-skill)
 
 ---
 
 <p align="center">
   <b>Built for developers who want the best AI coding assistant at a fraction of the cost.</b><br/>
-  <a href="https://www.atlascloud.ai?ref=JPM683">Get your Atlas Cloud API key</a> ·
+  <a href="https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=deepseek-v4-skill">Get your Atlas Cloud API key</a> ·
   <a href="https://github.com/thoughtincode/deepseek-v4-skill/issues">Report Bug</a> ·
   <a href="https://github.com/thoughtincode/deepseek-v4-skill/issues">Request Feature</a>
 </p>

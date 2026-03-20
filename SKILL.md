@@ -27,4 +27,4 @@ ATLAS_API_KEY - Atlas Cloud API密钥
 - DeepSeek V4: 即将推出
 
 ## 注册
-https://www.atlascloud.ai?ref=JPM683 — 首充25%奖励
+https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=deepseek-v4-skill — 首充25%奖励
